@@ -3,7 +3,7 @@
 
 }
 #home-section{
-	background: url('../images/home.jpg') no-repeat;
+	background: url('home.jpg') no-repeat;
 	background-size: cover;
 	background-attachment: fixed;
 	height: 700px;
